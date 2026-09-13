@@ -1,4 +1,8 @@
 # GAME_PROGRAM-EXP-6
+```
+NAME: SANTHOSH S
+REG.NO: 212224100052
+```
 # AI Random Roam with Chase - Unreal Engine
 
 ##  Aim
